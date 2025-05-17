@@ -42,6 +42,13 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
+**Linux/Mac:**
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ### 3. Install dependencies
 
 ```bash
