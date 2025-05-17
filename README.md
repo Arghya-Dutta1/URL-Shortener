@@ -95,8 +95,7 @@ Use `venv\Scripts\activate` in CMD or PowerShell.
 ## License
 
 - MIT License © 2025 Arghya Dutta <br>
-See [LICENSE](LICENSE) for details.
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license. See [LICENSE](LICENSE) for details.
 
 ---
 
